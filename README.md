@@ -18,7 +18,7 @@ Once you've finished downloading, there are a few things you will want to do bef
 - Run openmw-wizard.exe
 - Linked the morrowind.esm which is found in the Stock Game folder.
 - Run mo2
-- Go into the plugins and press "export to openmw".
+- Go into the tools then plugins and press "export to openmw".
 - Go to your MyGames folder, locate and open openmw.cfg
 - Using this [file](https://github.com/LeArby/OpenMW-Enhanced/blob/main/openmw.cfg), copy and paste ALL entries into your cfg, starting with and replacing "content=".
 - Run openmw-launcher.exe through mo2, if asked press skip installation.
