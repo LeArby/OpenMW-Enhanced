@@ -21,6 +21,12 @@ Once you've finished downloading, there are a few things you will want to do bef
 - Go into the tools then plugins and press "export to openmw".
 - Go to your MyGames folder, locate and open openmw.cfg
 - Using this [file](https://github.com/LeArby/OpenMW-Enhanced/blob/main/openmw.cfg), copy and paste ALL entries into your cfg, starting with and replacing "content=".
+- Now, add this to your settings.cfg - this is also in your MyGames folder.
+[Groundcover]
+enabled = true ;
+density = 1.0;
+stomp mode = 2;
+stomp intensity = 2
 - Run openmw-launcher.exe through mo2, if asked press skip installation.
 - Adjust and add options to however you like, you may need to reduce graphical settings depending on how good your device is.
 - Double check and tick all the archive files under data files, archive files. You can now close the launcher.
