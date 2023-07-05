@@ -1,4 +1,10 @@
-# OpenMW Enhanced
+<h1 align="center" style="margin-top: 0px;"> OpenMW Enhanced </h1>
+<hr>
+<p align="center" dir="auto">
+  <a href="https://discord.gg/gDDnzsyY9u" rel="nofollow">Discord</a> |
+  <a href="https://ko-fi.com/leokhi" rel="nofollow">Ko-fi</a>
+</p>
+<hr>
 
 OpenMW Enhanced is a Wabbajack version of the [Total Overhaul](https://modding-openmw.com/lists/total-overhaul/) modlist (and credits to Johnnyhostile for that!) and is as close as a 1:1 to that modlist. With some small additions and removals from myself.
 
