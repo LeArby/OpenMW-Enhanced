@@ -10,6 +10,7 @@ OpenMW Enhanced is a Wabbajack version of the [Total Overhaul](https://modding-o
 
 OpenMW Enhanced overhauls everything, graphics have been revamped and replaced along with tons of extra content, ranging from Tamriel Rebuilt and Skyrim: Home of the Nords.
 ## Installation
+- If you have used 1.0 you may have to do a fresh install if it doesn't work. I'm looking into this.
 
 Before downloading the modlist, make sure you have a folder dedicated for the modlist.
 Once you've finished downloading, there are a few things you will want to do before running it for the first time.
