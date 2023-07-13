@@ -14,14 +14,12 @@ OpenMW Enhanced overhauls everything, graphics have been revamped and replaced a
 Before downloading the modlist, make sure you have a folder dedicated for the modlist.
 Once you've finished downloading, there are a few things you will want to do before running it for the first time.
 
-- Delete OpenMW in your MyGames folder if it's there, this only applies if you have used OpenMW before.
 - Run openmw-wizard.exe
 - Linked the morrowind.esm which is found in the Stock Game folder.
 - Run mo2
-- Go into the tools then plugins and press "export to openmw".
-- Go to your MyGames folder, locate and open openmw.cfg
-- Using this [file](https://github.com/LeArby/OpenMW-Enhanced/blob/main/openmw.cfg), copy and paste ALL entries into your cfg, starting with and replacing "content=".
-- Now, add this to your settings.cfg - this is also in your MyGames folder.
+- Run OpenMW Launcher, press skip installation.
+- In the launcher you can tinker around to your desired settings. Some to note are the resolution, shadows, draw distance and so forth.
+- Now, add this to your settings.cfg - this is  in your MyGames/OpenMW folder.
 
 [Groundcover]
 enabled = true ;
@@ -31,13 +29,11 @@ density = 1.0;
 stomp mode = 2;
 
 stomp intensity = 2
-- Run openmw-launcher.exe through mo2, if asked press skip installation.
-- Adjust and add options to however you like, you may need to reduce graphical settings depending on how good your device is.
-- Double check and tick all the archive files under data files, archive files. You can now close the launcher.
+
 - Run OpenMW through mo2.
 
 Enjoy!
-This is the only time you need to do this, if you ever add anything, make sure you add it in the content in openmw.cfg. I will get a better way to do this eventually.
+This is the only time you need to do this. I will get a better way to do this eventually.
 
 ## Credits
 
