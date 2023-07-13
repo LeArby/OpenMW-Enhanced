@@ -22,6 +22,7 @@ Once you've finished downloading, there are a few things you will want to do bef
 - Now, add this to your settings.cfg - this is  in your MyGames/OpenMW folder.
 
 [Groundcover]
+
 enabled = true ;
 
 density = 1.0;
