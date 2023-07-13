@@ -15,7 +15,7 @@ Before downloading the modlist, make sure you have a folder dedicated for the mo
 Once you've finished downloading, there are a few things you will want to do before running it for the first time.
 
 - Run openmw-wizard.exe
-- Linked the morrowind.esm which is found in the Stock Game folder.
+- Link the morrowind.esm which is found in the Stock Game folder.
 - Run mo2
 - Run OpenMW Launcher, press skip installation.
 - In the launcher you can tinker around to your desired settings. Some to note are the resolution, shadows, draw distance and so forth.
