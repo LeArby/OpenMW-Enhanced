@@ -24,11 +24,11 @@ Once you've finished downloading, there are a few things you will want to do bef
 
 [Groundcover]
 
-enabled = true ;
+enabled = true 
 
-density = 1.0;
+density = 1.0
 
-stomp mode = 2;
+stomp mode = 2
 
 stomp intensity = 2
 
