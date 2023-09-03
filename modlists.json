@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "OpenMW Enhanced",
+    "description": "A Morrowind modlist based from the Total Overhaul modlist from johnnyhostile and his team.",
+    "author": "Okhi",
+    "maintainers": [
+      "github/LeArby"
+    ],
+    "game": "morrowind",
+    "tags": [
+      "survival"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/LeArby/OpenMW-Enhanced/main/images/openmwenhance.webp",
+      "readme": "https://raw.githubusercontent.com/LeArby/OpenMW-Enhanced/main/README.md",
+      "download": "https://authored-files.wabbajack.org/OpenMW%20Enhanced.wabbajack_4742d29b-7ac9-44e0-a1df-e031e523fae4",
+      "machineURL": "OpenMWEnhanced",
+      "discordURL": "https://discord.com/invite/gDDnzsyY9u"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "99v7hRz+tvQ=",
+      "Size": 93108122,
+      "NumberOfArchives": 7645,
+      "SizeOfArchives": 14423423996,
+      "NumberOfInstalledFiles": 69125,
+      "SizeOfInstalledFiles": 27110079148
+    },
+    "version": "1.2.0"
+  }
+]
