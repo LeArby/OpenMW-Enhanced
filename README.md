@@ -43,3 +43,7 @@ Thank you to Salty and Lulzed for being amazing testers and spending time to mak
 
 And you.
 
+
+
+SUGGESTED MODIFICATION :
+Explain how to download the modlist. Apparently you should download it from releases section and then open the .wabbajack file in Wabbajack.
