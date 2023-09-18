@@ -18,16 +18,16 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LeArby/OpenMW-Enhanced/main/images/openmwenhance.webp",
       "readme": "https://raw.githubusercontent.com/LeArby/OpenMW-Enhanced/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OpenMW%20Enhanced.wabbajack_4742d29b-7ac9-44e0-a1df-e031e523fae4",
+      "download": "https://authored-files.wabbajack.org/OpenMW%20Enhanced.wabbajack_4c927d06-e21a-48ef-9dce-140874aca9c0",
       "machineURL": "OpenMWEnhanced",
       "discordURL": "https://discord.com/invite/gDDnzsyY9u"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "99v7hRz+tvQ=",
-      "Size": 93108122,
+      "Hash": "t3YiamZQbag=",
+      "Size": 93112623,
       "NumberOfArchives": 7645,
-      "SizeOfArchives": 14423423996,
+      "SizeOfArchives": 14423425873,
       "NumberOfInstalledFiles": 69125,
       "SizeOfInstalledFiles": 27110079148
     },
