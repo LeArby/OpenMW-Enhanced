@@ -15,22 +15,24 @@ OpenMW Enhanced overhauls everything, graphics have been revamped and replaced a
 
 Before downloading the modlist, make sure you have a folder dedicated for the modlist.
 Once you've finished downloading, there are a few things you will want to do before running it for the first time.
-
-- Run openmw-wizard.exe
-- Link the morrowind.esm which is found in the Stock Game folder.
-- Run mo2
-- Run OpenMW Launcher, press skip installation.
-- In the launcher you can tinker around to your desired settings. Some to note are the resolution, shadows, draw distance and so forth.
-- Now, add this to your settings.cfg - this is  in your MyGames/OpenMW folder.
-
+1. Download [Wabbajack](https://www.wabbajack.org/)
+2. Download the latest .wabbajack file from the [releases page](https://github.com/LeArby/OpenMW-Enhanced/releases)
+3. Create a new folder named `mwenhanced` in your OpenMW installation folder. 
+4. Run Wabbajack and load the .wabbajack file from #2. This will install all the mods
+5. In your root OpenMW folder, run 'openmw-wizard.exe'. Select the 'From existing' option, then point it to `mwenhanced\Stock Game folder\Data Files\morrowind.esm`
+6. In your root OpenMW folder, run `openmw-launcher.exe` and press skip installation. In the launcher you can tinker around to your desired settings. Some to note are the resolution, shadows, draw distance and so forth.
+7. In your `C:\Users\<YOUR USERNAME>\Documents\My Games\OpenMW` folder, find the `settings.cfg` file and add the following to it:
+```
 [Groundcover]
 
 enabled = true   
 density = 1.0  
 stomp mode = 2  
-stomp intensity = 2  
+stomp intensity = 2
+```
+8. In the folder you created during step #3, run `organizer.exe` and click play
 
-- Run OpenMW through mo2.
+
 
 Enjoy!
 This is the only time you need to do this. I will get a better way to do this eventually.
