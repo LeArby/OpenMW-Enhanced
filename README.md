@@ -30,7 +30,8 @@ density = 1.0
 stomp mode = 2  
 stomp intensity = 2
 ```
-8. In the folder you created during step #3, run `organizer.exe` and click play
+8. In the folder you created during step #3, run `ModOrganizer.exe`.
+9. In the ModOrganizer UI, left of the 'Run' button, select 'openmw' from the dropdown before running the game.
 
 
 
